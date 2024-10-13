@@ -1,2 +1,2 @@
-# realtime-chat
-A real-time chat application built with Socket.IO, enabling users to connect and communicate instantly. Fast, reliable, and easy to use
+ > [!IMPORTANT]
+> This chat application leverages Socket.IO for real-time communication, allowing users to engage in instant messaging with seamless updates. Socket.IO ensures low-latency, bi-directional communication between clients and servers, providing a smooth user experience. The system supports various features like message broadcasting, private messaging, and user status updates, all while maintaining reliable performance across different devices and network conditions.
