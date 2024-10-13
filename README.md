@@ -3,4 +3,4 @@
 
 > [!WARNING]
 > ### Lincense Important 
-> It is licensed under the ` GNU GENERAL PUBLIC LICENSE (GPL-3.0) `. !
+> It is licensed under the ` GNU GENERAL PUBLIC LICENSE (GPL-3.0) `.
