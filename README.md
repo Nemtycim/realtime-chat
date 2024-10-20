@@ -4,5 +4,5 @@
 > [!WARNING]
 > ### Lincense Important 
 > It is licensed under the ` GNU GENERAL PUBLIC LICENSE (GPL-3.0) `.
-
+> ### ***Currently, only Turkish Language is available.***
 # 📸 Photos
