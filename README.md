@@ -4,5 +4,5 @@
 > [!WARNING]
 > ### Lincense Important 
 > It is licensed under the ` GNU GENERAL PUBLIC LICENSE (GPL-3.0) `.
-> ### <p align="center"> sa </p> ***Currently, only Turkish Language is available.***
+> ### <p align="center"> ***Currently, only Turkish Language is available.*** </p> 
 # 📸 Photos
