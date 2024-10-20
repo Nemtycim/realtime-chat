@@ -17,5 +17,6 @@
 ![image](https://github.com/user-attachments/assets/53e42184-5018-47db-9233-18c1aef42c6b)
 
 ### Chat Page
-![image](https://github.com/user-attachments/assets/731a88cd-57aa-48b5-8bc7-f2e86972a9f7)
+![image](https://github.com/user-attachments/assets/4f56fce0-c0e3-4f87-854f-0add826a71b5)
+
 
