@@ -1,0 +1,28 @@
+{
+  "name": "socketchat",
+  "version": "1.0.0",
+  "description": "App to chat with friends in real time / Arkadaslarla gerçek zamanlı sohbet etme uygulaması",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "audit": "^0.0.6",
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "fix": "^0.0.6",
+    "http": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^8.7.0",
+    "path": "^0.12.7",
+    "socket.io": "^4.8.0"
+  }
+}
